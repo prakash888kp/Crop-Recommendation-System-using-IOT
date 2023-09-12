@@ -52,17 +52,17 @@
 
 ### Running the chatbot
 
-rasa run --enable-api --cors "*"
+> rasa run --enable-api --cors "*"
 
-rasa run actions
+> rasa run actions
 
 ### Running the Django web module
 
-python3 app.py
+> python3 app.py
 
 ### Capturing photo on Raspberry Pi
 
-python3 cam.py
+> python3 cam.py
 
 ## Selected For
 
