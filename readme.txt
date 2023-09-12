@@ -1,4 +1,4 @@
-Smart Agriculture Recommendation System 🌾
+## Smart Agriculture Recommendation System 🌾
 
 Improve the productivity of crops through IoT-based real-time data collection and machine learning.
 
