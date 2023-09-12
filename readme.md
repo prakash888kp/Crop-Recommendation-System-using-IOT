@@ -51,23 +51,20 @@
 ## Usage
 
 ### Running the chatbot
-\```bash
 
 rasa run --enable-api --cors "*"
 
 rasa run actions
 
-\```
-
 ### Running the Django web module
-\```bash
+
 python3 app.py
-\```
 
 ### Capturing photo on Raspberry Pi
-\```bash
+
 python3 cam.py
-\```
 
 ## Selected For
+
 - This Project is selected for TNSCST
+
