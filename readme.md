@@ -41,12 +41,41 @@
 
 ## Flow of the Project
 - Overview 1
+  ![Overview 1.1](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/overview.png)
+  
 - Overview 2
+  ![Overview 1.2](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/overview2.png)
+
 
 ## Data Collection
 - Utilized a public dataset containing data for 22 crops including NPK levels, temperature, humidity, moisture, and rainfall.
 - Total dataset consists of 53K images including 30 diseases across various crops.
 - Dataset divided into an 80/20 ratio for training and validation sets.
+
+## LEAF DISEASE DETECTION 
+![DEMO 1.1](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo%201.1.png)
+![DEMO 1.2](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo1.2.png)
+![DEMO 1.3](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo1.3.png)
+
+## CROP RECOMMENDATION 
+![DEMO 2.1](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo2.1.png)
+![DEMO 2.2](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo2.2.png)
+![DEMO 2.3](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo2.3.png)
+![DEMO 2.4](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo2.4.png)
+![DEMO 2.5](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/Screenshot%202023-09-12%20at%202.22.17%20PM.png)
+
+## FERTILIZER RECOMMENDATION
+![DEMO 3.1](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo3.1.png)
+![DEMO 3.2](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo3.2.png)
+![DEMO 3.3](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo3.3.png)
+![DEMO 3.4](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/Screenshot%202023-09-12%20at%202.24.55%20PM.png)
+
+## CHATBOT IMPLEMETATION FOR FARMERS
+![Chatbot](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/demo4.png)
+
+## Model Accuracy
+
+![Result](https://github.com/prakash888kp/Crop-Recommendation-System-using-IOT/blob/main/images/result.png)
 
 ## Usage
 
