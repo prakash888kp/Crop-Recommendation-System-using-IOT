@@ -52,8 +52,11 @@
 
 ### Running the chatbot
 \```bash
+
 rasa run --enable-api --cors "*"
+
 rasa run actions
+
 \```
 
 ### Running the Django web module
