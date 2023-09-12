@@ -1,23 +1,66 @@
-SMART AGRICULTURE RECOMMENDATION SYSTEM TO IMPROVE THE PRODUCTIVITY OF CROPS
+Smart Agriculture Recommendation System 🌾
 
-implemented IoT based real time data collection system to help the formers in leaf disease detection, crop recommendation and fertilizer recommendation.
-• To develop a robust system that can diagnose plant diseases in remote places using techniques of machine learning and image processing.
-• To suggest best crop for the farm, soil analysis is performed and machine learning technique is used to suggest best crop
-• To suggest best fertilizer for the crop, soil analysis is performed and machine learning technique is used to suggest best fertilizer
-• To make hassle free user experience introduced chat bot which can perform all the above actions with all languages using google API.
+Improve the productivity of crops through IoT-based real-time data collection and machine learning.
 
+Table of Contents
 
+Overview
+Features
+Hardware Requirements
+Software Requirements
+Flow of the Project
+Data Collection
+Usage
 
-For creating weight file i used Ensemble learning link : https://github.com/prakash888kp/EnsembleDiseaseDetection/blob/main/Ensemble_Crop_Recommender_Final.ipynb
+Overview
+Leaf Disease Detection: Utilizes machine learning and image processing techniques for diagnosing plant diseases.
+Crop Recommendation: Suggests the best crop based on soil analysis.
+Fertilizer Recommendation: Recommends the optimal fertilizer for crops through soil analysis.
+Chatbot for Farmers: Hassle-free user experience in multiple languages using Google API.
 
-To Run the Project follow the below commands:
+Features
+Real-time data collection through IoT.
+Diagnosis of plant diseases even in remote locations.
+Soil analysis for crop and fertilizer recommendation.
+Multilingual chatbot for easy interaction.
 
-To run chatbot
+Hardware Requirements
+Raspberry Pi
+ESP8266
+Soil & Moisture Sensor
+Temperature Sensor (DHT 11)
+pH Sensor
+Pi Cam
+
+Software Requirements
+Raspbian OS
+VS Code
+Django
+Flask
+Firebase
+Rasa Framework
+Python
+
+Flow of the Project
+Overview 1
+Overview 2
+
+Data Collection
+Utilized a public dataset containing data for 22 crops including NPK levels, temperature, humidity, moisture, and rainfall.
+Total dataset consists of 53K images including 30 diseases across various crops.
+Dataset divided into an 80/20 ratio for training and validation sets.
+
+Usage
+Running the chatbot
+
 rasa run --enable-api --cors "*"
 rasa run actions
 
-To run Django web module
+Running the Django web module
 python3 app.py
 
-To capture photo on rpi
+Capturing photo on Raspberry Pi
 python3 cam.py
+
+Selected For
+This Project is selected for TNSCST
