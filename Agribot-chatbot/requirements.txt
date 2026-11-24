@@ -29,7 +29,7 @@ cryptography==3.4.8
 cycler==0.11.0
 decorator==4.4.2
 Deprecated==1.2.13
-Django==3.2.13
+Django==3.2.25
 django-royce-bulksms==0.1
 dm-tree==0.1.7
 dnspython==1.16.0
