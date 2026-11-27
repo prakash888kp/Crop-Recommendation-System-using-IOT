@@ -1,7 +1,7 @@
 absl-py==0.13.0
 aio-pika==6.8.2
 aiofiles==0.8.0
-aiohttp==3.7.4
+aiohttp==3.14.4
 aiormq==3.3.1
 APScheduler==3.7.0
 asgiref==3.5.2
@@ -15,7 +15,7 @@ botocore==1.26.0
 CacheControl==0.12.11
 cached-property==1.5.2
 cachetools==4.2.4
-certifi==2021.10.8
+certifi==2025.1.31
 cffi==1.15.0
 chardet==3.0.4
 charset-normalizer==2.0.12
@@ -25,11 +25,11 @@ cloudpickle==1.6.0
 colorclass==2.2.2
 coloredlogs==15.0.1
 colorhash==1.0.4
-cryptography==3.4.8
+cryptography==44.0.2
 cycler==0.11.0
 decorator==4.4.2
 Deprecated==1.2.13
-Django==3.2.13
+Django==4.2.26
 django-royce-bulksms==0.1
 dm-tree==0.1.7
 dnspython==1.16.0
@@ -57,7 +57,7 @@ joblib==1.0.1
 jsonpickle==2.0.0
 jsonschema==3.2.0
 kafka-python==2.0.2
-keras==2.6.0
+keras==3.12.3
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
 Markdown==3.3.7
@@ -67,25 +67,25 @@ mpyg321==2.0.1
 msgpack==1.0.3
 multidict==5.0.0
 networkx==2.5.1
-numpy==1.19.5
+numpy==1.26.4
 oauthlib==3.2.0
 opt-einsum==3.3.0
 packaging==20.9
 pamqp==2.3.0
 pandas==1.3.5
 pexpect==4.8.0
-Pillow==9.1.0
+Pillow==12.3.0
 prompt-toolkit==2.0.10
-protobuf==3.20.1
+protobuf==4.25.8
 psycopg2-binary==2.9.3
 ptyprocess==0.7.0
-pyasn1==0.4.8
+pyasn1==0.6.1
 pyasn1-modules==0.2.8
 pycparser==2.21
 pydot==1.4.2
-PyJWT==2.0.0
+PyJWT==2.14.0
 pykwalify==1.8.0
-pymongo==3.10.1
+pymongo==4.13.2
 pyparsing==3.0.9
 pyrsistent==0.18.1
 pyTelegramBotAPI==3.8.3
@@ -100,7 +100,7 @@ rasa==2.8.27
 rasa-sdk==2.8.5
 redis==4.1.4
 regex==2021.7.6
-requests==2.27.1
+requests==2.32.4
 requests-oauthlib==1.3.1
 requests-toolbelt==0.9.1
 rfc3986==1.5.0
@@ -122,13 +122,13 @@ sklearn-crfsuite==0.3.6
 slackclient==2.9.4
 sniffio==1.2.0
 SQLAlchemy==1.4.36
-sqlparse==0.4.2
+sqlparse==0.5.3
 tabulate==0.8.9
 tarsafe==0.0.3
 tensorboard==2.6.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.6.3
+tensorflow==2.19.0
 tensorflow-addons==0.14.0
 tensorflow-estimator==2.6.0
 tensorflow-hub==0.12.0
@@ -143,7 +143,7 @@ typeguard==2.13.3
 typing-extensions==3.10.0.2
 tzlocal==2.1
 ujson==4.3.0
-urllib3==1.26.9
+urllib3==2.6.0
 uvloop==0.14.0
 wcwidth==0.2.5
 webexteamssdk==1.6
@@ -155,7 +155,7 @@ zipp==3.8.0
 
 
 pandas==1.3.5
-numpy==1.19.5
+numpy==1.26.4
 tabulate==0.8.9
 gTTS==2.2.4
 mpyg321==2.0.1
