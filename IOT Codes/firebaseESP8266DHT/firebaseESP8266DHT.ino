@@ -21,7 +21,7 @@ const int potPin=3;  // ph sensor pin
 //For the following credentials, see examples/Authentications/SignInAsUser/EmailPassword/EmailPassword.ino
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyBexadrb79-L5rIkh1L6WkcnOZMQvV84U8"
+#define API_KEY "REDACTED"
 
 /* 3. Define the RTDB URL */
 #define DATABASE_URL "espdataplant-default-rtdb.asia-southeast1.firebasedatabase.app" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
@@ -75,7 +75,7 @@ void setup()
 
   //Or use legacy authenticate method
   //config.database_url = DATABASE_URL;
-  //config.signer.tokens.legacy_token = "<database secret>";
+  //config.signer.tokens.legacy_token = "REDACTED";
 
   //To connect without auth in Test Mode, see Authentications/TestMode/TestMode.ino
 
